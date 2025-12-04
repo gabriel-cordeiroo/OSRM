@@ -1,0 +1,8 @@
+awscli
+boto3
+pandas
+asyncio
+requests
+osrm-py
+pyarrow
+fastparquet
