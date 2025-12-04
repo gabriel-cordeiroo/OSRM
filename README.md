@@ -16,11 +16,9 @@ Este documento descreve a solução completa desenvolvida para automatizar o cá
 
 ### Contexto do Negócio
 
-A empresa necessitava calcular distâncias rodoviárias reais entre pontos de venda (POCs) e endereços de entrega de pedidos para:
-- Detecção de fraudes em entregas
-- Otimização de rotas logísticas
-- Análise de viabilidade de zonas de entrega
-- Cálculo preciso de custos de frete
+Necessidade de calcular distâncias rodoviárias reais entre pontos de venda (POCs) e endereços de entrega de pedidos para:
+- Usar informação em diversas frentes.
+
 
 ### Desafios Técnicos Identificados
 
